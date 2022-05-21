@@ -1,0 +1,611 @@
+
+            @media (max-width: 1650px) {
+              .nav-link {
+                font-size: 0.99vw;
+                
+              }
+            }
+            @media (max-width: 1440px) {
+              .nav-link {
+                font-size: 1.1vw;
+                
+              }
+            }
+            @media (max-width: 1150px) {
+              .nav-link {
+                font-size: 1.1vw;
+                font-weight: 600;
+              }
+            }
+       
+         
+         
+
+            
+
+
+@media (min-width: 1000px) and (max-width: 1350px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 1.7vw;
+  
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1000px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 1.9vw;
+  
+  }
+}
+@media (min-width: 600px) and (max-width: 800px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 2.2vw;
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 600px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 2.8vw;
+    
+  }
+}
+@media (min-width: 390px) and (height: 844px) { 
+  .service_text
+  {
+    text-align:end;
+    font-size: 3.1vw;
+  
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1350px) { 
+  .service_title
+  {
+    text-align: center;
+    font-size: 4.2vw; 
+    color: rgb(0, 0, 0);
+  
+  }
+}
+@media (min-width: 200px) and (max-width: 800px) { 
+  .service_title
+  {
+    text-align: center;
+    font-size: 4.4vw; 
+    color: rgb(0, 0, 0);
+  
+  }
+}
+
+@media (min-width: 650px) and (max-width: 1350px) { 
+  .column
+  {
+    width: 45%;
+    padding: 10px;
+    height: 25vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+@media (min-width: 650px) and (max-width: 900px) { 
+  .column
+  {
+    width: 45%;
+    padding: 10px;
+    height: 30vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+@media (min-width: 480px) and (max-width: 650px) { 
+  .column
+  {
+    width: 48%;
+    padding: 10px;
+    height: 36vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 480px) { 
+  .column
+  {
+    width: 50%;
+    padding: 10px;
+    height: 45vw; /* Should be removed. Only for demonstration */ 
+  
+  }
+}
+
+@media (min-width: 650px) and (max-width: 950px) { 
+  .p_column2
+  {
+    text-align: end;
+    font-size: 3vw; 
+    margin-right: 45px;
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 650px) { 
+  .p_column2
+  {
+    text-align: end;
+    font-size: 4.5vw; 
+    margin-right: 45px;
+  
+  }
+}
+
+
+@media (min-width: 600px) and (max-width: 950px) { 
+  .text33
+  {
+    text-align: end;
+    font-size: 3.1vw;
+    margin-right: 25px;
+  
+  }
+}
+
+@media (min-width: 550px) and (max-width: 700px) { 
+  .text33
+  {
+    text-align: end;
+    font-size: 3.6vw;
+    margin-right: 25px;
+  
+  }
+}
+
+@media (min-width: 300px) and (max-width: 550px) { 
+  .text33
+  {
+    text-align: end;
+    font-size: 4.1vw;
+    margin-right: 25px;
+  
+  }
+}
+
+
+@media (min-width: 300px) and (max-width: 950px) { 
+  .p_text
+  {
+  text-align: end;
+  font-size: 2.3vw;
+  margin-right: 25px; 
+  
+  }
+}
+@media (min-width: 550px) and (max-width: 700px) { 
+  .p_text
+  {
+  text-align: end;
+  font-size: 3vw;
+  margin-right: 25px; 
+  
+  }
+}
+@media (min-width: 300px) and (max-width: 550px) { 
+  .p_text
+  {
+  text-align: end;
+  font-size: 3.3vw;
+  margin-right: 25px; 
+  
+  }
+}
+
+
+
+
+
+
+@media (min-width: 650px) and (max-width: 950px) { 
+  .didyouKnew
+  {
+    font-size: 5.5vw; 
+  }
+}
+@media (min-width: 300px) and (max-width: 650px) { 
+  .didyouKnew
+  {
+    font-size: 7vw; 
+  }
+}
+
+
+@media (min-width: 1150px) and (max-width: 1350px) { 
+  .slogen
+  {
+    font-size: 36px;
+  }
+}
+@media (min-width: 1000px) and (max-width: 1150px) { 
+  .slogen
+  {
+    font-size: 21.5px;
+  }
+}
+@media (min-width: 800px) and (max-width: 1000px) { 
+  .slogen
+  {
+    font-size: 28.5px;
+  }
+}
+@media (min-width: 700px) and (max-width: 900px) { 
+  .slogen
+  {
+    font-size: 25.5px;
+  }
+}
+@media (min-width: 600px) and (max-width: 800px) { 
+  .slogen
+  {
+    font-size: 22.5px;
+  }
+}
+@media (min-width: 200px) and (max-width: 700px) { 
+  .slogen
+  {
+    font-size: 19.5px;
+  }
+}
+
+@media (min-width: 650px) and (max-width: 900px) { 
+  .more > a
+  {
+    font-size: 23px;
+  }
+}
+@media (min-width: 100px) and (max-width: 650px) { 
+  .more > a
+  {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1013px) and (max-width:1200px) { 
+  .actives{
+
+    padding: 14px 55px 14px 55px ;
+    font-size: 18px;        
+  }
+}
+
+@media (min-width: 992px) and (max-width:1012px) { 
+  .actives{
+
+    padding: 14px 55px 14px 55px ;
+    font-size: 16.5px;        
+  }
+}
+@media (min-width: 768px) and (max-width:991px) { 
+  .actives{
+
+    padding: 14px 35px 14px 35px ;
+    font-size: 17px;        
+  }
+}
+@media (min-width: 533px) and (max-width:767px) { 
+  .actives{
+
+    padding: 14px 18px 14px 18px ;
+    font-size: 16px;        
+  }
+}
+
+@media (min-width: 479px) and (max-width:532px) { 
+  .actives{
+    padding: 14px 15px 14px 15px ;
+    font-size: 15px;        
+  }
+}
+
+@media (min-width: 443px) and (max-width:478px) { 
+  .actives{
+    padding: 14px 12px 14px 12px ;
+    font-size: 15px;        
+  }
+}
+@media (min-width: 410px) and (max-width:442px) { 
+  .actives{
+    padding: 14px 10px 14px 10px ;
+    font-size: 14.5px;        
+  }
+}
+@media (min-width: 386px) and (max-width:409px) { 
+  .actives{
+    padding: 14px 8px 14px 8px ;
+    font-size: 14.5px;        
+  }
+}
+@media (min-width: 200px) and (max-width:385px) { 
+  .actives{
+    padding: 14px 8px 14px 8px ;
+    font-size: 14px;        
+  }
+}
+
+@media (min-width: 200px) and (max-width:385px) { 
+  .info{
+    font-size: 12px;        
+  }
+}
+
+    @media (min-width: 700px) and (max-width:991px) { 
+      .active , .a{
+    
+        padding: 14px 25px 14px 25px ;
+        font-size: 17px;
+        
+      }
+    }
+
+
+      @media (min-width: 521px) and (max-width:767px) { 
+        .active , .a{
+      
+          padding: 14px 10px 14px 10px ;
+          font-size: 17px;
+        }
+      }
+
+        @media (min-width: 481px) and (max-width:520px) { 
+          .active , .a{
+        
+            padding: 14px 8px 14px 8px ;
+            font-size: 16px;
+          }
+        }
+
+        @media (min-width: 451px) and (max-width:480px) { 
+          .active , .a{
+            padding: 12px 6px 12px 6px ;
+            font-size: 15.5px;
+         }
+        }
+
+        @media (min-width: 421px) and (max-width:450px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px ;
+            font-size: 15px;
+         }
+        }
+        @media (min-width: 402px) and (max-width:420px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 14px;
+         }
+        }
+
+         @media (min-width: 300px) and (max-width:401px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 12px;
+         }
+        }
+
+/* iphone se*/   @media (min-width: 375px) and (max-width:375px) and (max-height:667px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 13.8px;
+         }
+        }
+
+/* iphone 12 pro*/  @media (min-width: 390px) and (max-width:390px) and (max-height:844px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 14.5px;
+         }
+        }
+
+    
+/* pixel 5 */  @media  (min-width: 393px) and (max-width:393px) and (max-height:851px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 14.5px;
+         }
+        }
+        
+/* galaxy s8 */  @media (min-width: 360px) and (max-width:360px) and (max-height:740px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 12.5px;
+         }
+        }
+        
+/* galaxy s20 ultra */ @media (min-width: 412px) and (max-width:412px) and (max-height:915px) { 
+          .active , .a{
+            padding: 12px 4px 12px 4px;
+            font-size: 15.5px;
+         }
+        }
+
+/* surface pro 7 */ @media (min-width: 912px) and (max-width:912px) and (max-height:1368px) { 
+          .active , .a{
+            padding: 12px 10px 12px 10px;
+            font-size: 29px;
+         }
+        }
+
+
+
+        @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
+          .active , .a{
+            padding: 4px 11px 4px 11px ;
+            font-size: 12px;
+         }
+        }
+
+
+        @media (min-width: 393px) and (max-width:393px) and (max-height:851px) { 
+          .tel-area a {
+           font-size: 13.4px;
+         }
+        }
+       
+            @media (min-width: 400px) and (max-width:575px) { 
+               .test{
+                font-size: 20px;
+               
+              }}
+              @media (min-width: 400px) and (max-width:575px) { 
+                .tel-area a {
+                 font-size: 16px;
+               }}
+               @media (min-width: 100px) and (max-width:988px) { 
+                .social-icons {
+                 display: none;
+               }}
+
+
+
+
+
+               @media (min-width: 400px) and (max-width:465px) { 
+                .tel-area a {
+                 font-size: 14px;
+               }}
+               @media (min-width: 400px) and (max-width:465px) { 
+                .test{
+                 font-size: 16px;
+                 font-weight: 600;
+
+               }}
+
+              
+               @media (min-width: 300px) and (max-width:438px) { 
+                .tel-area a {
+                 font-size: 13px;
+               }}
+               @media (min-width: 300px) and (max-width:438px) { 
+                .test{
+                 font-size: 12.9px;
+
+               }}
+
+            
+          
+
+           
+
+
+
+
+               @media (min-width: 100px) and (max-width:400px) { 
+                .tel-area a {
+                 display: none;
+               }}
+               @media (min-width: 100px) and (max-width:400px) { 
+                .test{
+                  display: none;
+
+               }}
+               @media (min-width: 100px) and (max-width:400px) { 
+                .logo-cattleya{
+                  
+                  width: 100%;
+                  margin-left: 50%;
+                  margin-right: 50%;
+                  margin-top: 50px;
+                  display: block;
+
+               }}
+           
+               @media (min-width: 100px) and (max-width:575px) { 
+                .logo-cattleya {
+              
+                  width: 80%;
+                  float: left;
+                  margin-top: 50px;
+                }}
+
+
+
+               /* phones */
+               @media (min-width: 375px) and (max-width:375px) and (max-height:667px) { 
+                .tel-area a {
+                 font-size: 12px;
+               }}
+
+            
+
+               @media (min-width: 390px) and (max-width:390px) and (max-height:844px) { 
+                .tel-area a {
+                 font-size: 13px;
+               }}
+        
+
+
+
+               @media  (min-width: 360px) and (max-width:360px) and (max-height:740px) { 
+                .tel-area a {
+                 font-size: 11px;
+               }}
+               @media (min-width: 360px) and (min-width: 360px) and (max-width:740px) { 
+                .test{
+                 font-size: 12px;
+                 font-weight: 600;
+
+               }}
+           
+
+
+               @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
+                .tel-area a {
+                 font-size: 11px;
+               }}
+               @media (min-width: 280px) and (max-width:280px) and (max-height:653px) { 
+                .test{
+                 font-size: 12px;
+                 font-weight: 600;
+               }}
+            
+
+
+               @media (min-width: 900px) and (max-width: 990px){ 
+                .responsiveVideo {
+                  padding-left:44px;
+                  padding-right:94px;
+                  padding-top:95px;
+               }
+              }
+              @media (min-width: 800px) and (max-width: 900px){ 
+                .responsiveVideo {
+                  padding-left:44px;
+                  padding-right:134px;
+                  padding-top:95px;
+               }
+              }
+
+              @media (min-width: 100px) and (max-width: 1200px){ 
+                .contact_Text{
+
+                  text-align: center;
+                  font-size: 6vw;
+               }
+              }
+              @media (min-width: 100px) and (max-width: 650px){ 
+                .responsiveDidyouKnew  ,.column2{
+                height: 100%;
+                  width: 100%;
+               }
+              }
+
+
+
+
+
+
+              @media (min-width: 100px) and (max-width: 650px){ 
+                .img_slide  {
+                  height: 500px;
+               }
+              }
+          
