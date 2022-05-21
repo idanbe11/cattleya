@@ -377,7 +377,7 @@ a:-webkit-any-link {
 
 
 .active {
-  font-size: 17px;
+  font-size: 24px;
   color: white;
   min-height: 1px;
   background: #b18e73;
@@ -389,8 +389,6 @@ a:-webkit-any-link {
 .active:hover {
   color:white;
   text-decoration:none;
-  background: #ceb29d;
-  border-color:#ceb29d ;
 }
 
 ul {
