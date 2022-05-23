@@ -274,13 +274,95 @@
 
 
 
-@media (min-width: 1000px) and (max-width:1488px) { 
+@media (min-width: 1343px) and (max-width:1488px) { 
   li > .actives{
 
-    padding: 0px 4px 0px 4px ;
-    font-size: 10px;        
+    padding: 0px 55px 0px 55px ;
+    font-size: 24px;        
   }
 }
+
+@media (min-width: 1200px) and (max-width:1342px) { 
+  li > .actives{
+
+    padding: 0px 45px 0px 45px ;
+    font-size: 23.8px;        
+  }
+}
+
+@media (min-width: 1060px) and (max-width:1200px) { 
+  li > .actives{
+
+    padding: 0px 35px 0px 35px ;
+    font-size: 23.8px;        
+  }
+}
+@media (min-width: 920px) and (max-width:1060px) { 
+  li > .actives{
+
+    padding: 0px 25px 0px 25px ;
+    font-size: 23.8px;        
+  }
+}
+
+@media (min-width: 808px) and (max-width:920px) { 
+  li > .actives{
+
+    padding: 0px 20px 0px 20px ;
+    font-size: 22px;        
+  }
+}
+@media (min-width: 760px) and (max-width:808px) { 
+  li > .actives{
+
+    padding: 0px 20px 0px 20px ;
+    font-size: 19.9px;        
+  }
+}
+@media (min-width: 650px) and (max-width:760px) { 
+  li > .actives{
+
+    padding: 0px 15px 0px 15px ;
+    font-size: 18px;        
+  }
+}
+@media (min-width: 614px) and (max-width:650px) { 
+  li > .actives{
+
+    padding: 0px 15px 0px 15px ;
+    font-size: 16.5px;        
+  }
+}
+@media (min-width: 557px) and (max-width:614px) { 
+  li > .actives{
+
+    padding: 0px 15px 0px 15px ;
+    font-size: 14px;        
+  }
+}
+@media (min-width: 500px) and (max-width:557px) { 
+  li > .actives{
+
+    padding: 0px 12px 0px 12px ;
+    font-size: 13.3px;        
+  }
+}
+@media (min-width: 450px) and (max-width:500px) { 
+  li > .actives{
+
+    padding: 0px 12px 0px 12px ;
+    font-size: 11px;        
+  }
+}
+
+@media (min-width: 100px) and (max-width:450px) { 
+  li > .actives{
+
+    display: none;       
+  }
+}
+
+
 
 
 
