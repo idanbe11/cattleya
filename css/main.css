@@ -397,13 +397,16 @@ button  {
   text-decoration: none;
 }
 
-
+footer{
+  position: absolute;
+  width: 100%;
+  margin-top: 933px;
+}
 
 .actives{
   font-size: 18px;
   color: white;
   min-height: 1px;
-  background: #b18e73;
 
 }
 
@@ -525,3 +528,4 @@ li > a{
   color: white; 
 
 }
+
